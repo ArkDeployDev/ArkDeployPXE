@@ -1,5 +1,9 @@
 # ArkDeploy PXE
 
+![GitHub Release](https://img.shields.io/github/v/release/ArkDeployDev/ArkDeployPXE?include_prereleases&sort=date&display_name=release)
+![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-blue)
+![-.net](https://img.shields.io/badge/-.NET%206.0-blue)
+
 **Lightweight network boot for ArkDeploy Toolkit.**
 
 ArkDeploy PXE is a lightweight PXE and TFTP server designed to work with
