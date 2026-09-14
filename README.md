@@ -3,7 +3,7 @@
 **Lightweight network boot for ArkDeploy Toolkit.**
 
 ArkDeploy PXE is a lightweight PXE and TFTP server designed to work with
-[ArkDeploy Toolkit](https://arkdeploy.com/), allowing Toolkit-generated
+[ArkDeploy Toolkit](https://github.com/ArkDeployDev/ArkDeployToolkit), allowing Toolkit-generated
 Windows PE environments to boot directly over the network instead of
 USB.
 
