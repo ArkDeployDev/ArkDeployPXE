@@ -1,0 +1,38 @@
+# Build outputs
+bin/
+obj/
+Release/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# User-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+Thumbs.db
+Desktop.ini
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio / .NET generated files
+*.pidb
+*.svclog
+*.orig
+*.rej
+
+# OS files
+.DS_Store
+

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>PxeTftp</AssemblyName>
+    <RootNamespace>PxeTftp</RootNamespace>
+    <!-- No external NuGet packages are referenced, so this builds fully offline. -->
+  </PropertyGroup>
+
+</Project>
